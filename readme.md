@@ -1,6 +1,9 @@
 # GIT CHEATSHEET!
 
-## CLI command Python
+## DONT FORGET!
+`git commit -S -m "feat(...) : ..."`
+
+## Git Standart
 - `git branch <name_branch>` : Create a new branch called `<name_branch>`
 - `git branch -d <name_branch>` : Delete the spesified branch (safely)
 - `git branch -D <name_branch>` : Delete the spesified branch (forcely)
