@@ -1,4 +1,4 @@
-# Python Cheat Sheet!
+# GIT CHEATSHEET!
 
 ## CLI command Python
 - `git branch <name_branch>` : Create a new branch called `<name_branch>`
