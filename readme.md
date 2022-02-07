@@ -37,3 +37,7 @@ When you finish your branch, you cannot merge locally. You should merge it from 
 
 ## Setting GPG True
 - `git config --global commit.gpgsign true`
+
+## Initialize Condition
+- `export DEVELOP=1`
+- `export USE_CAPTCHA=1`
